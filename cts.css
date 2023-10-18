@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-color: rgb(206, 255, 255);
+}
+h1{
+    font-size: 4em;
+    color: rgb(0, 67, 116);
+    margin: 10vh 0;
+}
+p{
+    margin-bottom: 5vh;
+}
+#quote{
+    font-size: 1.5em;
+}
+#btn1{
+    padding: 10px 25px;
+    border-radius: 10px;
+    background-color: rgb(0, 28, 60);
+    color: white;
+}
+#btn1:hover{
+    background-color: rgb(7, 88, 181);
+    cursor: pointer;
+}
+div{
+    margin-top: 5vh;
+}
+label{
+    font-size: 1.5em;
+}
+input{
+    padding: 10px 10%;
+    border-radius: 10px;
+}
